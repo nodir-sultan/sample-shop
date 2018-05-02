@@ -1,2 +1,2 @@
 # sample-shop
-sample code for demo
+Sample code for UI functional test automation demo
